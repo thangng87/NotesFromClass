@@ -1,0 +1,37 @@
+1. [A good introduction to Linux Command line](https://www.youtube.com/watch?v=lZAoFs75_cs&ab_channel=freeCodeCamp.org)
+2. https://linuxcommand.org/lc3_learning_the_shell.php
+3. [match command-line arguments to their help text](https://explainshell.com/)
+4. [grep with and or operator](https://www.thegeekstuff.com/2011/10/grep-or-and-not-operators/)
+5. [https://linuxhint.com/bash_globbing_tutorial/]
+6. https://ryanstutorials.net/linuxtutorial/piping.php
+7. https://www.geeksforgeeks.org/run-levels-linux/
+8. https://medium.com/kernel-space/linux-fundamentals-a-to-z-of-a-sudoers-file-a5da99a30e7f
+9. https://www.golinuxhub.com/2014/08/how-to-check-lock-status-of-any-user/
+10. https://crontab-generator.org/
+11. https://crontab.guru/
+12. https://www.youtube.com/watch?v=5JVBpXiYMKo&ab_channel=LearnLinuxTV very good for today's topics, using services and need to restart etc
+13. https://www.youtube.com/watch?v=v-F3YLd6oMw&t=511s&ab_channel=TraversyMedia good resource for stuff we're learning regarding scripting!
+14. Scheduling tasks from windows commandline (requires powershell):
+https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/?view=windowsserver2022-ps
+15. . Active Directory - https://learn.microsoft.com/en-us/training/paths/active-directory-domain-services/ .Also, always encourage creating labs.
+16. https://gitlab.com/princesspi/class-notes/-/tree/main
+17. https://www.youtube.com/c/HackerSploit
+18. https://www.youtube.com/c/IamJakoby
+19. Free courses in CISSP, Ethical Hacking, Hacking Essentials, SQL Injection, many others
+https://school.infosec4tc.com/courses/category/Free
+20. Useful Get-Help <cmdlet name> -examples
+21. If you want to join: https://tryhackme.com/workspace and enter UTOR Cybersecurity 2022-2023
+22. You can see the path traceroute request takes.
+https://gsuite.tools/traceroute
+23. https://www.calculator.net/ip-subnet-calculator.html
+24. https://cidr.xyz/
+25. [OSI Model](https://community.fs.com/blog/tcpip-vs-osi-whats-the-difference-between-the-two-models.html)
+26. [MAC Address Lookup](https://aruljohn.com/mac.pl)
+27. [IP Address Calculator I have been using this for many years](https://www.subnet-calculator.com/)
+28. https://www.linkedin.com/posts/zeal-chhasatiya_offensivesecurity-penetrationtesting-github-activity-6987598071194927104--DPI
+29. https://github.com/cyberphor/oscp
+30. https://exercism.org/tracks/bash great website that gives you bash scripting challenges, free so far and pretty easy to use
+31. https://www.youtube.com/watch?v=dTAZui3k4LU This is a plugin for VSCode which makes writing regex 100x easier 
+32. https://www.youtube.com/watch?v=UVUd9_k9C6A Nerd's powershell course
+33. Good introduction to the Windows Registry for defensive ops https://posts.specterops.io/the-defenders-guide-to-the-windows-registry-febe241abc75
+34. 

@@ -22,7 +22,7 @@ https://school.infosec4tc.com/courses/category/Free
 20. Useful Get-Help <cmdlet name> -examples
 21. If you want to join: https://tryhackme.com/workspace and enter UTOR Cybersecurity 2022-2023
 22. You can see the path traceroute request takes.
-https://gsuite.tools/traceroute
+    https://gsuite.tools/traceroute
 23. https://www.calculator.net/ip-subnet-calculator.html
 24. https://cidr.xyz/
 25. [OSI Model](https://community.fs.com/blog/tcpip-vs-osi-whats-the-difference-between-the-two-models.html)
@@ -37,5 +37,6 @@ https://gsuite.tools/traceroute
 34. https://github.com/Manisso/fsociety
 35. https://sector.ca/sessions/extending-bloodhound-for-red-teamers/
 36. https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-18-04
-34. https://www.gnupg.org/gph/en/manual/x135.html
-35. https://www.cyberciti.biz/faq/understanding-etcshadow-file/
+37. https://www.gnupg.org/gph/en/manual/x135.html
+38. https://www.cyberciti.biz/faq/understanding-etcshadow-file/
+39. nmap -A -sV -p 1-65535 -Pn -sS -sU 172.17.1699.101 (noisy but full details scanning)

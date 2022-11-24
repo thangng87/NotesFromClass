@@ -40,3 +40,5 @@ https://school.infosec4tc.com/courses/category/Free
 37. https://www.gnupg.org/gph/en/manual/x135.html
 38. https://www.cyberciti.biz/faq/understanding-etcshadow-file/
 39. nmap -A -sV -p 1-65535 -Pn -sS -sU 172.17.1699.101 (noisy but full details scanning)
+40. https://gitlab.com/sidchoudhuri/tryhackme/-/blob/main/Commands/readme.md
+41. https://www.privacytools.io/
